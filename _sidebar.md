@@ -1,6 +1,12 @@
 <!-- _sidebar.md -->
-* Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+* 科普
+  * [清华ChatGLM底层原理详解——ChatGPT国内最强开源平替，单卡可运行 - 知乎](/doc/科普/清华ChatGLM底层原理详解.md)
+* 文献
+  * [大语言模型提示注入攻击安全风险分析报告](/doc/大语言模型提示注入攻击安全风险分析报告.md)
+* 法律法规
+  * [中华人民共和国网络安全法](/doc/法律法规/第三章^7中华人民共和国网络安全法.md)
+  * [欧盟通用数据保护条例（GDPR）](/doc/法律法规/第一章：欧盟通用数据保护条例（GDPR）.md)
+  * [推动跨境数据流动国际合作治理](/doc/法律法规/推动跨境数据流动国际合作治理.md)
+* 广师大官网资讯
+  * [网安学院资讯](/doc/网安学院官网资料.md)
+  
